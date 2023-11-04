@@ -1,4 +1,4 @@
-a = int(input(""))
+a=int(input(""))
 if a <= 0 :
     print("nol")
 elif  a > 1 and a < 10 and a != 0  :

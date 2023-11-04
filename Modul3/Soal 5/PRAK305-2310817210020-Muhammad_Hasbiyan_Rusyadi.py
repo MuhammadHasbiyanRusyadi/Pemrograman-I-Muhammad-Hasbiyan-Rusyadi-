@@ -1,4 +1,4 @@
-detik = int(input(""))
+detik =int(input(""))
 jam = detik // 3600
 ssdtk = detik % 3600
 menit = ssdtk // 60
